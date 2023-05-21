@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página - Módulo I - Primeiros Passos com HTML</title>
+</head>
+<body>
+    <h1>Módulo 1 - Primeiros Passos com HTML</h1>
+    <hr />
+
+    <h2 id="inicio">Índice</h2>
+       <ul>
+        <li><a href="#historia">História dos computadores</a></li>
+        <li><a href="#clients">O que são <i>Clients</i>?</a></li>
+        <li><a href="#servers">O que são <i>Servers</i>?</a></li>
+        <li><a href="#estrutura">Como é uma estrutura básica de um HTML?</a></li>
+        <li><a href="#listas">Entendendo a diferença entre listas ordenadas e não ordenadas</a></li>
+        <li><a href="#refs">Links de referências</a></li>
+        
+    </ul>
+
+    <h2 id="historia">História dos computadores</h2>
+    <p><a href="#inicio">Voltar</a> </p>
+    <p> A primeira geração dos computadores iniciou em 1944 com o Harvard Mark
+        Tivemos a segunda geração no período de 1959 a 1965 com o inicio dos transistores.
+        Terceira geração de 1965 a 1970
+        Quarta geraçã o a partir de 1971 até os dias atuais.
+      
+
+    <h2 id="clients">O que são <i>Clients</i>?</h2>
+    <p><a href="#inicio">Voltar</a> </p>
+    <p></strong>Clients são os usuários da Internet.
+       
+    <h2 id="servers">O que são <i>Servers</i>?</h2>
+    <p><a href="#inicio">Voltar</a> </p>
+    <p></strong>São os servidores nos quais as páginas HTML <i>(sites)</i> estão conectadas.
+       
+
+    <h2 id="estrutura"> Como é uma estrutura básica de um HTML?</h2>
+    <p><a href="#inicio">Voltar</a> </p>
+    <p></strong>Possui um header, body e footer. Dentro dessas estruturas existem diversas outras.
+    
+        
+    <h2 id="listas">Entendendo a diferença entre listas ordenadas e não ordenadas</h2>
+    <p><a href="#inicio">Voltar</a> </p>
+    <p></strong>Listas ordenadas usamos a tag  <strong>ol</strong> com cada elemento da lista iniciando com um numeral, 
+    <p> para lista não ordenadas utilizamos a tag <strong>li</strong> cada elemento dela se inicia com um ponto.</p>
+    
+
+    <h2 id="refs">Links de referências</h2>
+    <p><a href="#inicio">Voltar</a> </p>
+    <p><strong>Referências </strong></p>
+    <ul>
+        <li><a href="https://www.dio.me/" target="_blank">Dio.me</a></li>
+        <li><a href="https://www.w3.org/" target="_blank">w3c.org</a></li>
+    </ul>
+
+</body>
+</html>
